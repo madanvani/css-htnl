@@ -1,2 +1,35 @@
-# css-htnl
-&lt;!-- inspired by https://adobe.ly/3KSkgPx -->   &lt;h1>UL Cards&lt;/h1>   &lt;ul class="ul-cards">     &lt;li style="--accent-color: #68AFFF">       &lt;div class="icon">&lt;i class="fa-solid fa-user">&lt;/i>&lt;/div>       &lt;div class="title">Lorem Ipsum&lt;/div>       &lt;div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia.&lt;/div>     &lt;/li>     &lt;li style="--accent-color: #FFA44B">       &lt;div class="icon">&lt;i class="fa-solid fa-house">&lt;/i>&lt;/div>       &lt;div class="title">Lorem Ipsum&lt;/div>       &lt;div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia dignissimos iusto, ut iste beatae repellat? Enim!&lt;/div>     &lt;/li>     &lt;li style="--accent-color: #EF6968">       &lt;div class="icon">&lt;i class="fa-solid fa-wifi">&lt;/i>&lt;/div>       &lt;div class="title">Lorem Ipsum&lt;/div>       &lt;div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. &lt;/div>     &lt;/li>     &lt;li style="--accent-color: #0ED2D1">       &lt;div class="icon">&lt;i class="fa-solid fa-cart-shopping">&lt;/i>&lt;/div>       &lt;div class="title">Lorem Ipsum&lt;/div>       &lt;div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia dignissimos iusto, ut iste beatae repellat?&lt;/div>     &lt;/li>     &lt;li style="--accent-color: #c66fa7">       &lt;div class="icon">&lt;i class="fa-solid fa-car">&lt;/i>&lt;/div>       &lt;div class="title">Lorem Ipsum&lt;/div>       &lt;div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit? Enim!&lt;/div>     &lt;/li>     &lt;li style="--accent-color: #ccb033">       &lt;div class="icon">&lt;i class="fa-brands fa-codepen">&lt;/i>&lt;/div>       &lt;div class="title">Lorem Ipsum&lt;/div>       &lt;div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia dignissimos iusto.&lt;/div>     &lt;/li>        &lt;/ul>
+<!-- inspired by https://adobe.ly/3KSkgPx -->
+  <h1>UL Cards</h1>
+  <ul class="ul-cards">
+    <li style="--accent-color: #68AFFF">
+      <div class="icon"><i class="fa-solid fa-user"></i></div>
+      <div class="title">Lorem Ipsum</div>
+      <div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia.</div>
+    </li>
+    <li style="--accent-color: #FFA44B">
+      <div class="icon"><i class="fa-solid fa-house"></i></div>
+      <div class="title">Lorem Ipsum</div>
+      <div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia dignissimos iusto, ut iste beatae repellat? Enim!</div>
+    </li>
+    <li style="--accent-color: #EF6968">
+      <div class="icon"><i class="fa-solid fa-wifi"></i></div>
+      <div class="title">Lorem Ipsum</div>
+      <div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. </div>
+    </li>
+    <li style="--accent-color: #0ED2D1">
+      <div class="icon"><i class="fa-solid fa-cart-shopping"></i></div>
+      <div class="title">Lorem Ipsum</div>
+      <div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia dignissimos iusto, ut iste beatae repellat?</div>
+    </li>
+    <li style="--accent-color: #c66fa7">
+      <div class="icon"><i class="fa-solid fa-car"></i></div>
+      <div class="title">Lorem Ipsum</div>
+      <div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit? Enim!</div>
+    </li>
+    <li style="--accent-color: #ccb033">
+      <div class="icon"><i class="fa-brands fa-codepen"></i></div>
+      <div class="title">Lorem Ipsum</div>
+      <div class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est explicabo suscipit amet officia dignissimos iusto.</div>
+    </li>
+    
+  </ul>
